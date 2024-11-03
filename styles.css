@@ -1,3 +1,7 @@
 body {background-color:lightgoldenrodyellow;
 }
 body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+header {background-color:lightskyblue; vertical-align: center; justify-items: center;}
+body {text-align: center;}
+header {font-size: 25px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+h3 {text-decoration-line: underline; font-family: Verdana, Geneva, Tahoma, sans-serif;}
